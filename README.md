@@ -1,13 +1,9 @@
-# Core-Fonts
-## A small repository containing multiple fonts intended to be used on Linux systems, post installation.
+# Font Collection
+## A small repository hosting multiple fonts intended to be used on Linux systems, after installation.
 
 
-### *I'm currently looking for contributors to package this for the AUR or other distros, as I have neither the time or knowledge about packaging. Also, I look for people who can also contribute with their own font files. so if you are willing to help, please reach me out.*
 
---
-
-
-### This repository exists to host a collection of fonts that can be used on Linux systems post-installation, such as Arch Linux and Gentoo, which are barebones after a clean installation, it also exists to provide compatibility with Microsoft Windows systems to read documents and write, and to help with missing characters system-wide. 
+### This repository exists to host a collection of fonts that can be used on Linux systems post-installation, such as Arch Linux and Gentoo, which are barebones after a clean installation, it also exists to provide compatibility with Microsoft Windows systems to read documents and write, and to help with missing characters system-wide. I've included Asian fonts so you no longer see squares on your linux system.
 
 # Disclaimer:
 * You may contribute by adding fonts to Main or Extra directories.
